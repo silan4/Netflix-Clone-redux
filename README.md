@@ -2,7 +2,7 @@
 
 # Preview
 
-![]([public\netflix..gif](https://github.com/silan4/Netflix-Clone-redux/blob/main/public/netflix..gif))
+![](https://github.com/silan4/Netflix-Clone-redux/blob/main/public/netflix..gif)
 
 # Kaynaklar
 
