@@ -4,7 +4,7 @@
 
 ![](https://github.com/silan4/Netflix-Clone-redux/blob/main/public/netflix..gif)
 
-# Kaynaklar
+# Libraries Used
 
 - react-router-dom
 - axios
@@ -14,7 +14,7 @@
 - react-redux
 - redux-thunk
 
-# kaynaklar
+# Resources
 
 - API: https://developer.themoviedb.org/reference/intro/getting-started
 
