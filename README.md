@@ -2,7 +2,7 @@
 
 # Preview
 
-![](\public\netflix..gif)
+![](public\netflix..gif)
 
 # Kaynaklar
 
@@ -18,4 +18,4 @@
 
 - API: https://developer.themoviedb.org/reference/intro/getting-started
 
-# Netflix-Clone-redux
+
